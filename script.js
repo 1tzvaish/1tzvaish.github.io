@@ -523,11 +523,12 @@ function initEasterEggTerminal() {
     <tr><th>ID</th><th>PROJECT NAME</th><th>YEAR</th><th>TECH STACK</th><th>STATUS</th></tr>
   </thead>
   <tbody>
-    <tr><td>01</td><td>Port Scanner</td><td>2026</td><td>Python, Sockets, Threading, Linux</td><td>STABLE</td></tr>
-    <tr><td>02</td><td>Smart File Organizer</td><td>2025</td><td>Python, Tkinter, File System API</td><td>RESOLVED</td></tr>
-    <tr><td>03</td><td>To-Do List Web App</td><td>2025</td><td>Python, SQLite, HTML, CSS</td><td>STABLE</td></tr>
-    <tr><td>04</td><td>Car Rental System</td><td>2024</td><td>HTML, CSS, JS, PHP, SQL</td><td>RESOLVED</td></tr>
-    <tr><td>05</td><td>Unified Attendance System</td><td>2023</td><td>HTML, CSS, JS, PHP, SQL</td><td>RESOLVED</td></tr>
+    <tr><td>01</td><td>Developer Portfolio</td><td>2026</td><td>HTML5, CSS3, JavaScript, Git</td><td>LIVE</td></tr>
+    <tr><td>02</td><td>Port Scanner</td><td>2026</td><td>Python, Sockets, Threading, Linux</td><td>STABLE</td></tr>
+    <tr><td>03</td><td>Smart File Organizer</td><td>2025</td><td>Python, Tkinter, File System API</td><td>RESOLVED</td></tr>
+    <tr><td>04</td><td>To-Do List Web App</td><td>2025</td><td>Python, SQLite, HTML, CSS</td><td>STABLE</td></tr>
+    <tr><td>05</td><td>Car Rental System</td><td>2024</td><td>HTML, CSS, JS, PHP, SQL</td><td>RESOLVED</td></tr>
+    <tr><td>06</td><td>Unified Attendance System</td><td>2023</td><td>HTML, CSS, JS, PHP, SQL</td><td>RESOLVED</td></tr>
   </tbody>
 </table>`;
         printLine(tableHtml);
